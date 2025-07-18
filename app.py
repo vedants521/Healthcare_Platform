@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 
 # Page configuration
 st.set_page_config(
-    page_title="MUSC Healthcare Budget Intelligence Platform",
+    page_title="Healthcare Budget Intelligence Platform",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded"
