@@ -285,12 +285,12 @@ def ml_forecast(data, periods):
 
 # Main Application
 def main():
-    st.title("🏥 MUSC Healthcare Budget Intelligence Platform")
+    st.title("🏥 Healthcare Budget Intelligence Platform")
     st.markdown("### Advanced Analytics for Healthcare Financial Management")
     
     # Sidebar for navigation and date filtering
     with st.sidebar:
-        st.image("https://via.placeholder.com/300x100/0066cc/ffffff?text=MUSC+Healthcare", use_column_width=True)
+        st.image("https://via.placeholder.com/300x100/0066cc/ffffff?text=Healthcare", use_column_width=True)
         st.markdown("---")
         
         # Date Range Filter
